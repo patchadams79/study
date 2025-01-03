@@ -1,0 +1,8 @@
+# a = True
+# print(type(a)) # <class 'bool'>
+
+# a = [1, 2, 3, 4]
+# while a:
+#     print(a)
+#     a.pop()
+          

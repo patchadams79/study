@@ -1,0 +1,36 @@
+# name = 'Patch'
+# age = 45
+# a = f'I am {name} and I am {age} years old.'
+# print(a)
+
+# age = 45
+# a = f'I am {age + 1} years old.'
+# print(a)
+
+# age = 45
+# a = f'I am {age * 2} years old.'
+# print(a)
+
+# a = "hobby"
+# print(a.count('b'))
+
+# a = "hobby"
+# print(a.find('b'))
+
+# a = " to the ".join(['a', 'b', 'c', 'd'])
+# print(a)
+
+# a = "HI"
+# print(a.lower())
+
+# a = " hi "
+# print(a.rstrip())
+
+# a = "Life is too short"
+# print(a.replace("Life", "Your leg"))
+
+# a = "Life is too short"
+# print(a.split())
+
+# a = "a:b:c:d"
+# print(a.split(':'))

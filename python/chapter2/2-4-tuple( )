@@ -1,0 +1,24 @@
+# t1 = ()
+# print(type(t1)) # <class 'tuple'>
+
+# t1 = (1, )
+# print(t1,[1]) # (1,) [1]
+
+# t1 = 1, 2, 3
+# print(type(t1)) # <class 'tuple'>
+
+# t1 = (1, 2, 'a', 'b')
+# del t1(0) # TypeError: 'tuple' object doesn't support item deletion
+
+# t1 = (1, 2, 'a', 'b')
+# print(t1[0]) # 1 # indexing
+
+# t1 = (1, 2, 'a', 'b')
+# print(t1[1:]) # (2, 'a', 'b') # slicing
+# print(t1) # (1, 2, 'a', 'b') # slicing
+
+# t1 = (1, 2, 'a', 'b')
+# t2 = (3, 4)
+# t3 = t1 + t2
+# print(t3) # (1, 2, 'a', 'b', 3, 4) # concatenation
+
